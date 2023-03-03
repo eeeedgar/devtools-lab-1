@@ -5,5 +5,3 @@
 ## JDM Workshop
 
 #### Сайт автосервиса
-
-![layout](resources/layout.png "Layout")
