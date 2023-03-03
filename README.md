@@ -5,3 +5,7 @@
 ## JDM Workshop
 
 #### Сайт автосервиса
+
+![layout](resources/layout.png "Layout")
+
+Сервис для записи на обслуживание
